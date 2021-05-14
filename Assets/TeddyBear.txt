@@ -1,0 +1,1 @@
+[{"name":"2","skills":{"动画":["Death1"],"音效":["SelectHeroScenes"],"特效":["FX_DJE_Att01"]}}]
